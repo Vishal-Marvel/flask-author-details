@@ -1,5 +1,5 @@
 # Author Details
-* Download the code `git clone `
+* Download the code `git clone https://github.com/Vishal-Marvel/flask-author-details.git`
 * Open cmd in the downloaded folder and run `pip install -r requirements.txt`
 * Configure line 9 in app.py based on your database  
 * Create the database in the mysql no the **tables**
